@@ -83,15 +83,4 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 ## **Access the Dashboard**  
 Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiMDE5N2U2ZTAtZDA2Zi00MDgyLWI0MjMtZTlkYjc1ODc0MWVkIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)**  
 
----
 
-## **How to Use the Dashboard**  
-1. Use slicers to filter data by region, product category, or time period.  
-2. Navigate between pages using bookmarks and buttons.  
-3. Drillthrough on products or returns charts for detailed insights.  
-4. Toggle between light and dark modes for your viewing preference.
-
----
-
-### **Copyright:**  
-Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
